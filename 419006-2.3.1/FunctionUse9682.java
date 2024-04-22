@@ -1,0 +1,7 @@
+import org.apache.kafka.common.utils.LogContext.LocationIgnorantKafkaLogger;
+public class FunctionUse9682 {
+public void funcUse() {
+LocationIgnorantKafkaLogger locationignorantkafkalogger = new LocationIgnorantKafkaLogger();
+locationignorantkafkalogger.isTraceEnabled();
+}
+}

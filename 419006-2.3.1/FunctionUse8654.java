@@ -1,0 +1,7 @@
+import org.apache.kafka.common.message.MetadataResponseData.MetadataResponseBroker;
+public class FunctionUse8654 {
+public void funcUse() {
+MetadataResponseBroker metadataresponsebroker = new MetadataResponseBroker();
+metadataresponsebroker.equals(null);
+}
+}

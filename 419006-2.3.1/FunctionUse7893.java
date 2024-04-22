@@ -1,0 +1,7 @@
+import org.apache.kafka.common.message.DeleteTopicsRequestData;
+public class FunctionUse7893 {
+public void funcUse() {
+DeleteTopicsRequestData deletetopicsrequestdata = new DeleteTopicsRequestData();
+deletetopicsrequestdata.toStruct(null);
+}
+}
